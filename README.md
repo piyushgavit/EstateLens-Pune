@@ -1,6 +1,6 @@
 # EstateLens Pune
 
-College-project demo: estimates apartment rent and buying prices in Baner, Wakad, Hinjewadi, Kothrud, Hadapsar, and Viman Nagar.
+College-project demo: estimates apartment rent and buying prices in Kothrud, Karve Nagar, Bavdhan, Warje, Baner, Wakad, and Hinjewadi.
 
 ## Run
 Python 3.10+ recommended.
